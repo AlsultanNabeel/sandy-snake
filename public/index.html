@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>لعبة سلم وحية</title>
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+    <header class="top-bar">
+        <div class="branding">
+            <h1 class="app-title">لعبة سلم وحية</h1>
+            <p class="app-subtitle">التقط أكبر عدد ممكن من الحبوب!</p>
+        </div>
+        <div class="scoreboard">
+            <span class="score-label">النتيجة:</span>
+            <span id="scoreValue" class="score-value">0</span>
+        </div>
+    </header>
+
+    <main class="game-wrapper">
+        <section class="status-panel" aria-live="polite">
+            <p id="statusMessage" class="status-message">ابدأ بالحركة باستخدام الأسهم.</p>
+        </section>
+        <section class="board-panel">
+            <canvas id="gameCanvas" width="420" height="420" aria-label="منطقة لعب الحية"></canvas>
+        </section>
+        <section class="controls-hint">
+            <h2 class="hint-title">طريقة التحكم</h2>
+            <ul class="hint-list">
+                <li>استخدم الأسهم أو مفاتيح WASD لتحريك الحية.</li>
+                <li>على الأجهزة اللمسية: اسحب في الاتجاه المطلوب.</li>
+                <li>تصل إلى الجدار؟ اللعبة تنتهي ويتم تصفير العداد.</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer class="app-footer">
+        <p>تم التطوير باستخدام HTML وCSS وJavaScript فقط.</p>
+    </footer>
+
+    <script src="scripts/gameEngine.js"></script>
+</body>
+</html>
