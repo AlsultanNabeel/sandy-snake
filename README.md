@@ -37,7 +37,7 @@
 
 ## 🎯 العب الآن واستمتع بالسرعة!
 تفضل بزيارة اللعبة وتجربتها مباشرة عبر الرابط التالي:
-👉 [alsultannabeel.github.io/snake_game](https://alsultannabeel.github.io/snake_game/)
+👉 [alsultannabeel.github.io/snake_game](👉 [alsultannabeel.github.io/snake_game]([https://alsultannabeel.github.io/snake_game/](https://alsultannabeel.github.io/sandy-snake/)))
 
 ---
 
