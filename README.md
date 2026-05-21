@@ -35,9 +35,9 @@
 - 💥 **Cinematic Game Over:** شاشة نهاية تفاعلية تظهر فوراً عند ملامسة الحواف بـ Smooth Feedback.
 - 🔁 **Instant Reset:** إعادة تشغيل تلقائية وتصفير العداد لتبدأ مغامرة جديدة بلمحة بصر.
 
-## 🎯 العب الآن واستمتع بالسرعة!
+## 🎯 العب الآن واستمتع بالسرعة!## 🎯 العب الآن واستمتع بالسرعة!
 تفضل بزيارة اللعبة وتجربتها مباشرة عبر الرابط التالي:
-👉 [alsultannabeel.github.io/snake_game](👉 [alsultannabeel.github.io/snake_game]([https://alsultannabeel.github.io/snake_game/](https://alsultannabeel.github.io/sandy-snake/)))
+👉 [alsultannabeel.github.io/sandy-snake](https://alsultannabeel.github.io/sandy-snake/)
 
 ---
 
